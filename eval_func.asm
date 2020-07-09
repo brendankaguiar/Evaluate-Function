@@ -6,7 +6,7 @@
 #
 # Author:         Brendan Aguiar
 #
-# Date:            06/27/20
+# Date:            07/08/20
 #
 # Description:    A polynomial evaluator program ...
 #		  Evaluates a quadratic polynomial ...
